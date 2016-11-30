@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Micro Tanks Infinity:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Micro_Tanks_Infinity_jar</output-path>
+    <root id="archive" name="Micro Tanks Infinity.jar">
+      <element id="module-output" name="Micro Tanks Infinity" />
+    </root>
+  </artifact>
+</component>
